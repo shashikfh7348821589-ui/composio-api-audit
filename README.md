@@ -172,3 +172,15 @@ Outputs land in `data/`: `results.json` (raw), `results_cleaned.json`
 
 Python · Tavily (search) · Groq (`llama-3.1-8b-instant`, extraction) ·
 Composio SDK (toolkit registry cross-check) · static HTML/CSS/JS (no build step)
+
+## Project Attribution
+
+This project is based on the open-source repository
+by Harshith322.
+
+Original repository:
+https://github.com/Harshith322/composio-api-audit
+
+This fork is being reviewed and adapted for the
+Composio AI Product Ops Intern take-home assignment.
+
