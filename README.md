@@ -16,7 +16,7 @@ is self-serve or gated, API surface, and whether an MCP already exists. Build
 the research with an agent, not by hand. Verify it. Present it as one
 self-explanatory page.
 
-This repo is the pipeline. `composio_api_audit.html` is the deliverable.
+This repo is the pipeline. `index.html` is the deliverable.
 
 ---
 
